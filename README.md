@@ -1,9 +1,5 @@
 # Visual-mix-oficial
-Script tabela para o projeto basico
-
-
-
-
+Utilizar o pessoa (Os demais são meus cases de estudo);
 
 Script tabela para o projeto pessoa
 
