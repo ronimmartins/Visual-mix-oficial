@@ -13,3 +13,12 @@ email varchar2(20),
 rg varchar2(14)   )
 
 Alter table t_pessoa_fisica add constraint id_pessoa_pk primary key (id_pessoa);
+
+Script tabela para o projeto cupom
+CREATE TABLE T_CUPOM
+(
+ID_CUPOM number(10) NOT NULL,
+MATRIZ_CUPOM varchar2(50) NOT NULL,
+VL_CUPOM  number(10),
+CONSTRAINT T_CUPOM_PK PRIMARY KEY(ID_CUPOM)
+   )
